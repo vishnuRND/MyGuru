@@ -7,6 +7,7 @@
 int top=-1;
 int popele;
 int front=-1,rear=-1;
+int front1=0,rear=1;
 struct node
 {
 	int data;
